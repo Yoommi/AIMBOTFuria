@@ -1,0 +1,133 @@
+{
+    "campeonatos": [
+        {
+            "nome": "BLAST Premier: World Final 2024",
+            "data": "13-17 de Dezembro 2024",
+            "local": "Abu Dhabi, Emirados Árabes",
+            "premio": "$1.000.000"
+        },
+        {
+            "nome": "ESL Pro League Season 19",
+            "data": "22 de Abril - 12 de Maio 2024",
+            "local": "Malta",
+            "premio": "$850.000"
+        },
+        {
+            "nome": "IEM Rio 2024",
+            "data": "17-23 de Março 2024",
+            "local": "Rio de Janeiro, Brasil",
+            "premio": "$250.000"
+        }
+    ],
+    "proximos_jogos": [
+        {
+            "data": "15 de Março 2024",
+            "horario": "15:00 BRT",
+            "adversario": "Team Liquid",
+            "campeonato": "ESL Pro League Season 19",
+            "formato": "MD3"
+        },
+        {
+            "data": "18 de Março 2024",
+            "horario": "16:00 BRT",
+            "adversario": "Natus Vincere",
+            "campeonato": "ESL Pro League Season 19",
+            "formato": "MD3"
+        },
+        {
+            "data": "20 de Março 2024",
+            "horario": "14:00 BRT",
+            "adversario": "G2 Esports",
+            "campeonato": "ESL Pro League Season 19",
+            "formato": "MD3"
+        }
+    ],
+    "estatisticas_time": {
+        "ranking_mundial": 3,
+        "ultimas_partidas": [
+            {
+                "adversario": "Vitality",
+                "placar": "2-1",
+                "mapas": [
+                    {"nome": "Mirage", "placar": "16-14"},
+                    {"nome": "Ancient", "placar": "12-16"},
+                    {"nome": "Inferno", "placar": "16-12"}
+                ],
+                "data": "10 de Março 2024"
+            },
+            {
+                "adversario": "Heroic",
+                "placar": "2-0",
+                "mapas": [
+                    {"nome": "Nuke", "placar": "16-10"},
+                    {"nome": "Overpass", "placar": "16-8"}
+                ],
+                "data": "8 de Março 2024"
+            }
+        ],
+        "estatisticas_gerais": {
+            "vitorias": 12,
+            "derrotas": 3,
+            "winrate": "80%",
+            "mapas_favoritos": ["Mirage", "Inferno", "Nuke"],
+            "mapas_evitados": ["Ancient", "Vertigo"]
+        }
+    },
+    "jogadores": {
+        "KSCERATO": {
+            "rating": 1.25,
+            "kd": 1.32,
+            "adr": 85.4,
+            "kast": "78%",
+            "headshot": "62%",
+            "ultimas_partidas": [
+                {"rating": 1.45, "kd": "25-15", "adr": 92.3},
+                {"rating": 1.18, "kd": "18-12", "adr": 78.9}
+            ]
+        },
+        "arT": {
+            "rating": 1.12,
+            "kd": 1.08,
+            "adr": 82.1,
+            "kast": "75%",
+            "headshot": "58%",
+            "ultimas_partidas": [
+                {"rating": 1.25, "kd": "22-18", "adr": 88.7},
+                {"rating": 1.05, "kd": "16-14", "adr": 75.4}
+            ]
+        },
+        "yuurih": {
+            "rating": 1.20,
+            "kd": 1.25,
+            "adr": 84.2,
+            "kast": "77%",
+            "headshot": "60%",
+            "ultimas_partidas": [
+                {"rating": 1.30, "kd": "23-16", "adr": 90.1},
+                {"rating": 1.15, "kd": "19-13", "adr": 80.5}
+            ]
+        },
+        "chelo": {
+            "rating": 1.15,
+            "kd": 1.20,
+            "adr": 80.3,
+            "kast": "76%",
+            "headshot": "59%",
+            "ultimas_partidas": [
+                {"rating": 1.22, "kd": "20-15", "adr": 85.6},
+                {"rating": 1.10, "kd": "17-14", "adr": 78.2}
+            ]
+        },
+        "FalleN": {
+            "rating": 1.10,
+            "kd": 1.15,
+            "adr": 78.5,
+            "kast": "74%",
+            "headshot": "55%",
+            "ultimas_partidas": [
+                {"rating": 1.18, "kd": "19-16", "adr": 82.3},
+                {"rating": 1.05, "kd": "15-13", "adr": 75.8}
+            ]
+        }
+    }
+} 
